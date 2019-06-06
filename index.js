@@ -19,4 +19,3 @@ function attemptTwoFavoriteCustomers() {
   let favoriteCustomer = "her"
   let favoriteCustomer = "me"
   }
-  attemptTwoFavoriteCustomers();
